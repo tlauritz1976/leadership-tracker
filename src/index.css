@@ -1,0 +1,17 @@
+:root {
+  color-scheme: dark;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  background: #15171B;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+}
